@@ -12,11 +12,16 @@
 ex) 서초 맛집 시트 활용하여 메뉴 넣기
 
 korean = []
+
 chinese = []
+
 japanese = []
+
 flour = []
 
 3. if 구문활용하고  
 for 구문, 리스트 컴프리헨션 활용하여 메뉴 랜덤으로 print하기
+
 menu = []
+
 dessert = []
